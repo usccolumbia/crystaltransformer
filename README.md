@@ -19,7 +19,7 @@ Wei et al. Crystal Transformer: Self-learning neural language model for Generati
 ## How to run the generators
 
     python test.py --no_cuda --root_dir model_pure --checkpoint model_pure/471_model.ckpt \
---fill test2.blank  --decode greedy --output ./test.tsf
+      --fill test2.blank  --decode greedy --output ./test.tsf
 
 test2.blank file:
 
