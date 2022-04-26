@@ -2,12 +2,14 @@
 
 How to cite:
 
-Wei et al. 
+Wei et al. Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. Arxiv. 2022
 
 
 ## Datasets
 
+[OQMD-mix, MP-mix, ICSD-mix datasets](https://doi.org/10.6084/m9.figshare.19495100)
 
+[OQMD-pure, ICSD-pure, MP-pure](https://doi.org/10.6084/m9.figshare.19495064)
 
 ## Trained Models
 
@@ -16,7 +18,12 @@ Wei et al.
 
 ## How to run the generators
 
+    python test.py --no_cuda --root_dir model_pure --checkpoint model_pure/471_model.ckpt \
+--fill test2.blank  --decode greedy --output ./test.tsf
 
+test2.blank file:
+
+    <blank> Ti O O O
 
 ## BLMM Tinker Web app for materials doping
 
