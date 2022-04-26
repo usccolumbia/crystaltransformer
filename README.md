@@ -1,5 +1,10 @@
 ## BLMM Crystal Transformer
 
+Machine Learning and Evolution Laboratory <break>
+Department of Computer Science and Engineering<break>
+University of South Carolina
+
+
 How to cite:
 
 Lai Wei, Qinyang Li, Yuqi Song, Stanislav Stefanov, Edirisuriya M. D. Siriwardane, Jianjun Hu*. Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. Arxiv. 2022
