@@ -36,3 +36,8 @@ test2.blank file:
 ## BLMM Tinker Web app for materials doping
 
 [http://www.materialsatlas.org/blmtinker](http://www.materialsatlas.org/blmtinker)
+
+
+## Acknowledgements
+
+The model is based on the blank filling language model BLM at [here](https://github.com/Varal7/blank_language_model)
