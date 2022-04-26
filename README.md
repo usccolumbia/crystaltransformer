@@ -2,7 +2,7 @@
 
 How to cite:
 
-Wei et al. Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. Arxiv. 2022
+Lai Wei, Qinyang Li, Yuqi Song, Stanislav Stefanov, Edirisuriya M. D. Siriwardane, Jianjun Hu*. Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. Arxiv. 2022
 
 
 ## Datasets
