@@ -23,6 +23,9 @@ Lai Wei, Qinyang Li, Yuqi Song, Stanislav Stefanov, Edirisuriya M. D. Siriwardan
 
 ## How to run the generators
 
+Install the BLM code following [this BLM instruction](https://github.com/Varal7/blank_language_model)
+
+
     python test.py --no_cuda --root_dir model_pure --checkpoint model_pure/471_model.ckpt \
       --fill test2.blank  --decode greedy --output ./test.tsf
 
