@@ -1,7 +1,7 @@
 ## BLMM Crystal Transformer
 
-Machine Learning and Evolution Laboratory <break>
-Department of Computer Science and Engineering<break>
+Machine Learning and Evolution Laboratory <br>
+Department of Computer Science and Engineering<br>
 University of South Carolina
 
 
