@@ -40,4 +40,4 @@ test2.blank file:
 
 ## Acknowledgements
 
-The model is based on the blank filling language model BLM at [here](https://github.com/Varal7/blank_language_model)
+The model is trained with the blank filling language model code BLM at [here](https://github.com/Varal7/blank_language_model)
